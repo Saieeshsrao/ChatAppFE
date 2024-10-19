@@ -33,7 +33,7 @@ To get started with the frontend, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Saieeshsrao/ChatAppFE.git
     ```
 
 3. **Install dependencies**:
